@@ -1,0 +1,3 @@
+flask
+*.pyc
+config.py
